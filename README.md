@@ -6,5 +6,8 @@ Ejemplo de como usar paginación, filtros y ordenamiento con Django REST Framewo
     pip install djangorestframework
     pip install django-filter
 
+# Run migrations
+    python manage.py migrate
+    
 # Run
     python manage.py runserver
